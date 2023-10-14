@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  text-align: center;
+}
+
+.header {
+  background-color: lightcoral;
+  height: 50px;
+}
+
+.header a {
+  margin: 10px
+}
+
+.home, .comp {
+  background-color: skyblue;
+  height: 400px;
+}
+
+.footer {
+  background-color: lightgreen;
+  height: 100px;
+}
+
+.comp a {
+  margin: 10px
+}
